@@ -1,22 +1,43 @@
 # Cascade Products / CIAB
 
 ## Qué es
-- Distribuidor mayorista de medicina estética: rellenos, bioestimuladores, hilos tensores, etc. Envío mundial.
-- Modelo: prepago y bajo pedido. El médico paga y Cascade compra y envía en 24 h.
-- Lleva unas 300 de las ~1.000 referencias que pide el mercado.
+- Distribuidor mayorista de medicina estética, web cascadeproducts.eu (WooCommerce, 213 productos). Envío internacional.
+- Modelo: prepago y bajo pedido. El cliente paga y Cascade compra y envía en 24 h.
 - Acuerdos de volumen con las marcas; logística preparada para crecer mucho.
+- Contacto: ventas@cascadeproducts.eu · WhatsApp +34 650 42 54 48.
 
-## Mercado
-- ~80 % de la facturación viene de EE. UU., por boca a boca entre médicos (web y WhatsApp).
-- ~30 médicos activos en EE. UU. = "founding clients" a su precio actual. Los clientes nuevos que traen los comerciales pagan un precio más alto.
-- Prioridad: EE. UU. Después Alemania, Suiza y Reino Unido. España se considera saturada.
-- Plan: comerciales freelance a comisión (perfiles ex-Allergan, Galderma, Merz, Revance).
+## Público (decidido 21 nov 2026)
+| Perfil | Qué se le ofrece |
+| --- | --- |
+| Médicos estéticos, dermatólogos, cirujanos plásticos, clínicas | Todo el catálogo, incluidos inyectables |
+| Enfermería | Inyectables solo donde la ley del país lo permita y con licencia/supervisión verificada; si no, línea tópica |
+| Cosmetólogos / esteticistas | Solo línea tópica y de cabina: mascarillas, sérums para dermapen, peelings, cosmética profesional. **Nunca inyectables** |
+Nunca el paciente final.
 
-## Público
-Médicos estéticos, dermatólogos, cirujanos plásticos y clínicas de medicina estética. Nunca el paciente final.
+## Mercados (todos activos, rotar)
+| Mercado | Idioma | Autoridad a comprobar |
+| --- | --- | --- |
+| EE. UU. (prioridad, ~30 médicos "founding clients") | Inglés | FDA |
+| Latinoamérica | Español (Brasil: portugués) | ANVISA, COFEPRIS, INVIMA, etc. |
+| Europa: Alemania, Suiza, Reino Unido | Alemán / inglés | Marcado CE / UKCA, Swissmedic |
+| India | Inglés | CDSCO |
+
+**Regla de autorización:** antes de anunciar o recomendar un producto en un mercado, comprueba que está autorizado allí. Si no consta, márcalo `[VERIFICAR]` y no lo promociones en ese mercado. En EE. UU. solo productos aprobados por la FDA.
+
+## Producto foco (todos, por este orden de rotación)
+1. Rellenos de ácido hialurónico: Teosyal, Restylane, Juvederm, Stylage, Belotero, Saypha, Modelha.
+2. Bioestimuladores: Sculptra, Radiesse, Harmony CA.
+3. Skinboosters, PDRN y exosomas: Rejuran, Profhilo, Jalupro, Exoxe, Exojuv.
+4. Hilos y material: PDO/PLLA, cánulas, agujas.
+Para cosmetólogos: mascarillas (ABIB, Biodance, Centellian24…), sérums Dermapen, peelings.
+
+## Cierre de venta
+- Cuando un profesional muestra interés → **pasarlo a WhatsApp +34 650 42 54 48** con un enlace wa.me y un mensaje que diga quién es y qué producto le interesa.
+- Clientes actuales de EE. UU. = "founding clients" a su precio. Los nuevos traídos por comerciales pagan precio más alto.
+- Plan de comerciales freelance a comisión (perfiles ex-Allergan, Galderma, Merz, Revance).
 
 ## Reglas
+- Trato de **usted**.
 - Siempre #dradanielaroa en contenido de redes.
-- En inglés para EE. UU.
-- Sin promesas de resultados clínicos.
-- Precios y catálogo: [DATO — pedir lista actual a Pancho].
+- Sin promesas de resultados clínicos ni contenido para pacientes.
+- Precios: los de la web; precio para clientes nuevos de comerciales: [DATO].

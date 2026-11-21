@@ -10,7 +10,7 @@ Mensajes personalizados en inglés para los prospectos A del día.
 
 ## Pasos
 1. Lee la última salida del prospector.
-2. Para cada prospecto A: email de 80-120 palabras en inglés con un motivo específico, un solo CTA (llamada de 15 min o WhatsApp) y opción de baja (CAN-SPAM).
+2. Para cada prospecto A: mensaje de 80-120 palabras en el idioma del mercado, con un motivo específico, trato de usted y un solo CTA: escribir por WhatsApp al +34 650 42 54 48 (enlace wa.me). Email en frío solo en EE. UU. (con opción de baja, CAN-SPAM); en UE, Reino Unido, Suiza, Latinoamérica e India usa LinkedIn o el formulario/WhatsApp público de la clínica y deja el envío para el OK de Pancho.
 3. Si Gmail está conectado, créalos como BORRADORES; nunca envíes.
 4. Añade una línea a pendiente-de-aprobar.md.
 
