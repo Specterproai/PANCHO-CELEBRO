@@ -22,3 +22,7 @@ UNA página cada mañana para Pancho: qué cerró, qué está atascado y 3 decis
 4. Añade a "Pendiente de aprobar" del panel las líneas nuevas sin marcar de `salidas/pendiente-de-aprobar.md`, con su ruta.
 5. Si un agente activo no dejó salida en 24 h, ponlo en "Qué está atascado".
 6. Guarda la misma página en `salidas/cerebro/AAAA-MM-DD-informe.md`, haz commit y push.
+
+## Recordatorios pendientes de Pancho
+- **Zoho CRM + Zoho Books:** Pancho NO quiere empezar todavía la prueba de 15 días. En cuanto aparezca el **primer cobro real** en cualquier empresa (salida de M4 «Qué cerró» con importe, o un pago en Stripe), pon como **decisión n.º 1**: «Registrarse en Zoho CRM + Zoho Books ahora que hay flujo de caja (activar también el backoffice M3)». Repítelo cada mañana hasta que Pancho lo marque como hecho en el panel.
+
