@@ -6,7 +6,7 @@
 - Conectores: Google Drive
 
 ## Objetivo
-Captación para LEX 360.
+Captación para LEX 360 (99 €/mes) entre empresas que ya tengan impagados o los puedan tener.
 
 ## Pasos
 1. Define un nicho de empresas de la semana (por sector y provincia).
