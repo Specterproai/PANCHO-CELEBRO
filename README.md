@@ -7,7 +7,10 @@ Este repositorio es la cabeza pensante de Claude para **Cascade, Klasse, LexLega
 | --- | --- |
 | `CLAUDE.md` | Reglas para todos los agentes (se carga solo en cada sesión) |
 | `empresas/<empresa>/contexto.md` | Qué es cada empresa, oferta, público, tono, datos pendientes `[DATO]` |
-| `agentes/NN-nombre.md` | Ficha de cada uno de los 21 agentes: objetivo, pasos, horario, entrega |
+| `empresas/<empresa>/aprendizajes.md` | Lo que aprende cada semana el módulo de Inteligencia; lo leen todos |
+| `MAPA.md` | Mapa de los 100 agentes: 5 empresas × 4 módulos (Ventas, Operaciones, Backoffice, Inteligencia) |
+| `equipo/<empresa>/<módulo>/` | Ficha de cada uno de los 100 agentes: qué hace, con qué, qué entrega, cuándo y si necesita OK |
+| `agentes/` | El Cerebro (00) y las instrucciones detalladas de captación y contenido (01-20) |
 | `.claude/skills/` | 88 skills de marketing, comercial, ventas y seguridad |
 | `.claude/settings.json` + `.claude/hooks/` | Guardia SkillSpector: escanea cualquier repo antes de instalarlo |
 | `scripts/setup-nube.sh` | Instala SkillSpector en el entorno en la nube |
