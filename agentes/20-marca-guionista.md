@@ -2,7 +2,7 @@
 
 - Empresa: marca-personal
 - Skill: equipo-marketing
-- Cuándo: Lunes 9:03 (lote semanal)
+- Cuándo: Domingo 18:07 (lote semanal para grabar el lunes)
 - Conectores: ninguno
 
 ## Objetivo

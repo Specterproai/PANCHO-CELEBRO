@@ -33,11 +33,11 @@ Para cosmetólogos: mascarillas (ABIB, Biodance, Centellian24…), sérums Derma
 
 ## Cierre de venta
 - Cuando un profesional muestra interés → **pasarlo a WhatsApp +34 650 42 54 48** con un enlace wa.me y un mensaje que diga quién es y qué producto le interesa.
-- Clientes actuales de EE. UU. = "founding clients" a su precio. Los nuevos traídos por comerciales pagan precio más alto.
+- Clientes actuales de EE. UU. = "founding clients" con sus condiciones actuales (no se tocan). Todo cliente nuevo paga el precio publicado en la web.
 - Plan de comerciales freelance a comisión (perfiles ex-Allergan, Galderma, Merz, Revance).
 
 ## Reglas
 - Trato de **usted**.
 - Siempre #dradanielaroa en contenido de redes.
 - Sin promesas de resultados clínicos ni contenido para pacientes.
-- Precios: los de la web; precio para clientes nuevos de comerciales: [DATO].
+- **Precios: siempre los publicados en la web. No se hacen descuentos** (los agentes nunca ofrecen ni negocian descuentos).

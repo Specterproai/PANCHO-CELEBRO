@@ -17,7 +17,8 @@
 - Agencias: comisión solo con el viaje pagado al 100 %; el precio sube cerca de la fecha; sin cancelaciones.
 
 ## Objetivos (21 nov 2026)
-- **EUROPE 2027: quedan 11-20 plazas libres (prácticamente las 20).** Llenarlas es la prioridad nº 1. Fecha límite para llenar: [DATO].
+- **EUROPE 2027: 40 plazas en total, 14 ocupadas, 26 disponibles** (cifras publicables, a 21 nov 2026). Si Pancho da cifras nuevas, usa siempre las últimas; nunca inventes escasez.
+- **Cierre de inscripciones: 30 de junio de 2027.** Llenar las plazas es la prioridad nº 1.
 - Socios: crecer de 100 a 1.000, validados uno a uno por Pancho.
 
 ## Público (socio ideal)

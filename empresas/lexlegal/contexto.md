@@ -5,11 +5,11 @@ Despacho con servicio en toda España. Contacto: 690 95 32 91 · info@lexlegalad
 
 ## Áreas para captar (21 nov 2026)
 - **ACTIVA: Reclamación de impagados a empresas y autónomos** (vía amistosa y judicial). Es la única área que captan los agentes ahora.
-- EN PAUSA: accidentes de tráfico y negligencias médicas. Honorarios cuando se activen: **a éxito, sin coste inicial** (porcentaje de lo recuperado: [DATO]).
+- EN PAUSA: accidentes de tráfico y negligencias médicas. Honorarios cuando se activen: **a éxito, sin coste inicial** (porcentaje de lo recuperado: [DATO]). Tasa de éxito indicada por Pancho: 85 % (dato interno: no publicarlo en anuncios sin que Pancho apruebe el texto exacto; la publicidad de abogados no puede prometer resultados).
 - Secundarias, sin captación: cláusula suelo y convalidación de títulos.
 
 ## LEX 360
-Suscripción jurídica mensual: un abogado de cabecera por cuota fija para empresas y autónomos. **Precio: 99 €/mes** (IVA incluido o no: [DATO]). Qué incluye exactamente: [DATO].
+Suscripción jurídica mensual: un abogado de cabecera por cuota fija para empresas y autónomos. **Precio: 99 €/mes, IVA incluido.** Qué incluye exactamente: [DATO].
 
 ## Anuncios
 - **Presupuesto actual: 30 €/día**, todo a impagados. No subir sin OK de Pancho.

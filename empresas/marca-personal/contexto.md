@@ -24,11 +24,11 @@ Tono para el tema 2: cercano y honesto, sin frases vacías de motivación ni pro
 
 ## Objetivos del canal
 - Seguidores y alcance.
-- Vender formación o mentorías (producto y precio: [DATO]).
+- Vender mentorías y asesorías: **la mentoría es personalizada** (cada caso es distinto, se presupuesta tras una primera conversación); **la asesoría cuesta 499 € + IVA**.
 - Atraer inversores y socios.
 
 ## Ritmo de grabación
-**Pancho graba en bloque 1 día a la semana** (día: [DATO]). El guionista entrega cada lunes un lote de 5 guiones listos para grabar de una sentada.
+**Pancho graba en bloque los lunes.** El guionista entrega cada domingo por la tarde un lote de 5 guiones listos para grabar de una sentada.
 
 ## Datos de rendimiento
 Estadísticas: vía conexión de Instagram (cuenta profesional + Meta). Hasta que esté conectada, el analista trabaja solo con tendencias.
