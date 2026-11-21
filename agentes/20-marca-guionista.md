@@ -2,15 +2,15 @@
 
 - Empresa: marca-personal
 - Skill: equipo-marketing
-- Cuándo: L-X-V 9:03
+- Cuándo: Lunes 9:03 (lote semanal)
 - Conectores: ninguno
 
 ## Objetivo
-1 guion listo para grabar + copy de Instagram.
+Lote de 5 guiones para grabar en un solo día + copy de Instagram de cada uno.
 
 ## Pasos
 1. Lee la última salida de tendencias y el último análisis.
-2. Guion 30-60 s: gancho 0-3 s, desarrollo, cierre con CTA; indicaciones de edición (subtítulos, sin silencios, elegante).
+2. 5 guiones de 30-60 s alternando los dos temas (varias empresas / empresarios que tiran la toalla): gancho 0-3 s, desarrollo, cierre con CTA (seguir, mentoría o contacto para inversores según el vídeo); indicaciones de edición (subtítulos, sin silencios, elegante). Añade una hoja de rodaje: orden de grabación, cambios de ropa o plano, y qué necesita Pancho tener a mano.
 3. Copy propio de Instagram (no la transcripción) + 3 opciones de portada.
 
 ## Entrega

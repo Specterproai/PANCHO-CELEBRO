@@ -17,8 +17,18 @@ Emprendedores y empresarios hispanohablantes que quieren crecer.
 ## Copy de Instagram
 Nunca la transcripción del vídeo: siempre un copy propio para Instagram.
 
-## Temas que Pancho puede contar con autoridad
-Superdeportivos y club privado (Klasse), legaltech e IA (Specter), negocio internacional (Cascade), derecho y empresa (LexLegal), crear varias empresas a la vez.
+## Temas (decididos 21 nov 2026)
+1. **Crear y llevar varias empresas a la vez**: día a día, decisiones, errores, cómo se organiza (Specter, Klasse, Cascade, LexLegal como ejemplos reales).
+2. **Ayudar a empresarios que están a punto de tirar la toalla** o que no saben por dónde continuar: qué hacer cuando todo se para, cómo recuperar el foco, siguientes pasos concretos.
+Tono para el tema 2: cercano y honesto, sin frases vacías de motivación ni promesas de éxito rápido. Si un comentario o DM refleja una situación personal grave (desesperación, salud mental), no se trata como lead: se avisa a Pancho.
+
+## Objetivos del canal
+- Seguidores y alcance.
+- Vender formación o mentorías (producto y precio: [DATO]).
+- Atraer inversores y socios.
+
+## Ritmo de grabación
+**Pancho graba en bloque 1 día a la semana** (día: [DATO]). El guionista entrega cada lunes un lote de 5 guiones listos para grabar de una sentada.
 
 ## Datos de rendimiento
-Estadísticas de Instagram: [DATO — exportación semanal en Drive o conector de Meta].
+Estadísticas: vía conexión de Instagram (cuenta profesional + Meta). Hasta que esté conectada, el analista trabaja solo con tendencias.
