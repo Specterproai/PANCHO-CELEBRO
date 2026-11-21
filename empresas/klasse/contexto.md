@@ -16,12 +16,24 @@
 - Familias: Mercedes Vito para los niños y actividades infantiles en los hoteles.
 - Agencias: comisión solo con el viaje pagado al 100 %; el precio sube cerca de la fecha; sin cancelaciones.
 
-## Público
-Propietarios de superdeportivos (Ferrari, Lamborghini, Porsche, McLaren, AMG…), alto patrimonio, España y Europa.
+## Objetivos (21 nov 2026)
+- **EUROPE 2027: quedan 11-20 plazas libres (prácticamente las 20).** Llenarlas es la prioridad nº 1. Fecha límite para llenar: [DATO].
+- Socios: crecer de 100 a 1.000, validados uno a uno por Pancho.
+
+## Público (socio ideal)
+- Dueños de **Ferrari, Lamborghini, McLaren**.
+- Dueños de **Porsche, AMG, BMW M**.
+- España y Europa, alto patrimonio. Trato de **tú**.
+
+## Canales de captación
+1. Instagram @klassexperience (orgánico, estilo Klasse).
+2. Anuncios Meta (sin cambiar presupuesto sin OK).
+3. Agencias de viaje B2B a comisión (El Corte Inglés Viajes y otras).
+4. Concesionarios y partners: Centro Porsche Zaragoza y Valencia, Mercedes (Stern Motor, Auto Beltrán), SIXT, Wire Club.
 
 ## Tono y estilo
 Elitista, sobrio, menos es más. Klasse elige a quién deja entrar: nunca suplicar.
 Estilo Signature: negro, grano fino, luz plateada, serif blanca, texto mínimo, sin hashtags.
 
 ## Rutas del año
-Calendario de rutas 2027: [DATO — pedir a Pancho].
+Calendario de rutas 2027: **aún no cerrado**. Mientras tanto, el contenido se centra en EUROPE 2027.

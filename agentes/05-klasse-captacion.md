@@ -9,7 +9,7 @@
 10 propietarios, clubes o eventos de superdeportivos a contactar.
 
 ## Pasos
-1. Busca propietarios activos en redes (España y Europa), clubes de marca, eventos de motor y concesionarios premium.
+1. Busca propietarios activos en redes de Ferrari, Lamborghini, McLaren, Porsche, AMG y BMW M (España y Europa), clubes de marca y eventos de motor. Prioriza a quien encaje en EUROPE 2027.
 2. Para cada uno: nombre, perfil, por qué encaja en Klasse y mensaje privado corto, exclusivo, sin suplicar.
 3. Guarda la lista en Drive (Klasse/Prospectos) si está conectado.
 

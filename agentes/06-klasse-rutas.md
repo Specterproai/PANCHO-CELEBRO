@@ -6,10 +6,10 @@
 - Conectores: Canva o Higgsfield (opcional)
 
 ## Objetivo
-1 post + 3 stories promocionando las rutas del año.
+1 post + 3 stories para llenar EUROPE 2027 (las rutas 2027 aún no están cerradas).
 
 ## Pasos
-1. Lee el calendario de rutas en empresas/klasse/contexto.md; si es [DATO], usa EUROPE 2027 y pide el calendario en el resultado.
+1. Rota ángulos de EUROPE 2027: hoteles (uno por post), etapas de la ruta, Le Mans, formato networking, familias, SIXT. Si el calendario de rutas ya aparece en contexto.md, añade 1 story de rutas.
 2. Copy sobrio y elitista; indicación visual estilo Klasse (negro, luz plateada, serif).
 3. Sin hashtags en piezas Signature.
 
