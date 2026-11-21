@@ -2,7 +2,7 @@
 
 - **Empresa:** Specter AI
 - **Módulo:** M1 Ventas
-- **Estado:** Pendiente
+- **Estado:** Activo
 - **Cuándo:** Cada hora 9-20 h
 - **Herramientas:** Instagram, Gmail
 - **¿Necesita el OK de Pancho?** No: es respuesta a quien escribió

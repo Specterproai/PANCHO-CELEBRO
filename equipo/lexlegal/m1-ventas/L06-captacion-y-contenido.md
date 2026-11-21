@@ -2,7 +2,7 @@
 
 - **Empresa:** LexLegal Advisors
 - **Módulo:** M1 Ventas
-- **Estado:** Pendiente
+- **Estado:** Activo
 - **Cuándo:** Diario 8:47
 - **Herramientas:** Meta Ads
 - **¿Necesita el OK de Pancho?** Sí en anuncios y posts nuevos

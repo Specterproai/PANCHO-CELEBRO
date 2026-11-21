@@ -2,7 +2,7 @@
 
 - **Empresa:** Specter AI
 - **Módulo:** M1 Ventas
-- **Estado:** Pendiente
+- **Estado:** Activo
 - **Cuándo:** Bajo demanda
 - **Herramientas:** Stripe, Drive
 - **¿Necesita el OK de Pancho?** Sí

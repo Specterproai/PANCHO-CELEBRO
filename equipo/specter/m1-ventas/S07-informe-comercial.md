@@ -2,7 +2,7 @@
 
 - **Empresa:** Specter AI
 - **Módulo:** M1 Ventas
-- **Estado:** Pendiente
+- **Estado:** Activo
 - **Cuándo:** Lunes 9:03
 - **Herramientas:** Drive
 - **¿Necesita el OK de Pancho?** No

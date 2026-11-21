@@ -2,7 +2,7 @@
 
 - **Empresa:** Cascade Products
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Diario 19:07
 - **Herramientas:** Moloni, WooCommerce
 - **¿Necesita el OK de Pancho?** Sí hasta validar el flujo

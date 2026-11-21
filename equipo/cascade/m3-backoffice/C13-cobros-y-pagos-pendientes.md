@@ -2,7 +2,7 @@
 
 - **Empresa:** Cascade Products
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Diario 10:37
 - **Herramientas:** Gmail, WooCommerce
 - **¿Necesita el OK de Pancho?** No en recordatorios a clientes

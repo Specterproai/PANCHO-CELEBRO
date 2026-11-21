@@ -19,6 +19,11 @@ Necesita OK de Pancho SIEMPRE:
 - Publicar contenido no aprobado, precios nuevos, nombres de competidores o promesas.
 - Si el sistema te pide confirmación antes de enviar o publicar, no la saltes: deja el borrador y apúntalo en pendientes.
 
+## Módulos activos (21 nov 2026)
+- **Activos:** Specter y LexLegal → M1 Ventas y M4 Inteligencia. Captación y contenido de Specter y de Empresarios de Éxito. El Cerebro.
+- **En pausa:** todo el **M3 Backoffice** de las 5 empresas, hasta que haya flujo de caja (decisión de Pancho). No factures, concilies ni persigas cobros.
+- **Pendientes:** el resto. Ver `MAPA.md`.
+
 ## Trato
 - **Usted**: abogados, procuradores (Specter, LexLegal) y médicos/clínicas (Cascade).
 - **Tú**: Klasse, EUROPE 2027 y la marca personal Empresarios de Éxito.

@@ -2,7 +2,7 @@
 
 - **Empresa:** LexLegal Advisors
 - **Módulo:** M4 Inteligencia
-- **Estado:** Pendiente
+- **Estado:** Activo
 - **Cuándo:** Domingo 20:13
 - **Herramientas:** Repo
 - **¿Necesita el OK de Pancho?** No

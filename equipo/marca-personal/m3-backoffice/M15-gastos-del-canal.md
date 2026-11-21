@@ -2,7 +2,7 @@
 
 - **Empresa:** Empresarios de Éxito
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Mensual día 4
 - **Herramientas:** Drive
 - **¿Necesita el OK de Pancho?** No

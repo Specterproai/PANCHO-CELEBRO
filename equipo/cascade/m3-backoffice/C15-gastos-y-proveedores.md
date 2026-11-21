@@ -2,7 +2,7 @@
 
 - **Empresa:** Cascade Products
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Diario 18:29
 - **Herramientas:** Gmail, Drive
 - **¿Necesita el OK de Pancho?** Sí en pagos

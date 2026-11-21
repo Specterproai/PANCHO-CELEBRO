@@ -2,7 +2,7 @@
 
 - **Empresa:** Specter AI
 - **Módulo:** M1 Ventas
-- **Estado:** Pendiente
+- **Estado:** Activo
 - **Cuándo:** Diario 9:23
 - **Herramientas:** Calendar, Gmail
 - **¿Necesita el OK de Pancho?** No si la pidió

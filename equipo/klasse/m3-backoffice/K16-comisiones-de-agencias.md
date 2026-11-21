@@ -2,7 +2,7 @@
 
 - **Empresa:** Klasse / EUROPE 2027
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Mensual día 5
 - **Herramientas:** Drive
 - **¿Necesita el OK de Pancho?** Sí

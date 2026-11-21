@@ -2,7 +2,7 @@
 
 - **Empresa:** Specter AI
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Diario 23:23
 - **Herramientas:** Stripe
 - **¿Necesita el OK de Pancho?** No

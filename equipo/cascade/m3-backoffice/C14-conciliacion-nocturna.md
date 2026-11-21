@@ -2,7 +2,7 @@
 
 - **Empresa:** Cascade Products
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Diario 23:11
 - **Herramientas:** Revolut, WooPayments, Moloni
 - **¿Necesita el OK de Pancho?** No

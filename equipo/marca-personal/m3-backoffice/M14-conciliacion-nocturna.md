@@ -2,7 +2,7 @@
 
 - **Empresa:** Empresarios de Éxito
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Diario 23:27
 - **Herramientas:** Stripe
 - **¿Necesita el OK de Pancho?** No

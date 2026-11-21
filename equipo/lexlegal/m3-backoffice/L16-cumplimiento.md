@@ -2,7 +2,7 @@
 
 - **Empresa:** LexLegal Advisors
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Mensual día 3
 - **Herramientas:** Drive
 - **¿Necesita el OK de Pancho?** Sí

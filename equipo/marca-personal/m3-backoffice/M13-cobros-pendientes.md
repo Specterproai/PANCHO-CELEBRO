@@ -2,7 +2,7 @@
 
 - **Empresa:** Empresarios de Éxito
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Lunes 10:53
 - **Herramientas:** Gmail
 - **¿Necesita el OK de Pancho?** No en recordatorios

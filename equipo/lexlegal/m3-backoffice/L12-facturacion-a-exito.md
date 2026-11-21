@@ -2,7 +2,7 @@
 
 - **Empresa:** LexLegal Advisors
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Diario 19:17
 - **Herramientas:** Stripe, facturación: [DATO]
 - **¿Necesita el OK de Pancho?** Sí hasta validar el flujo

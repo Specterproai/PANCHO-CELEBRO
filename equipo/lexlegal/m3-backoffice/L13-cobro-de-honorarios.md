@@ -2,7 +2,7 @@
 
 - **Empresa:** LexLegal Advisors
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Lunes y jueves 10:41
 - **Herramientas:** Gmail, Stripe
 - **¿Necesita el OK de Pancho?** No en recordatorios

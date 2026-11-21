@@ -24,11 +24,11 @@
 | [C09](equipo/cascade/m2-operaciones/C09-pedidos-y-envios-24-h.md) | M2 Operaciones | Pedidos y envíos 24 h | Diario 9:41 y 17:13 | Pendiente |
 | [C10](equipo/cascade/m2-operaciones/C10-seguimiento-al-cliente.md) | M2 Operaciones | Seguimiento al cliente | Diario 12:19 | Pendiente |
 | [C11](equipo/cascade/m2-operaciones/C11-stock-y-proveedores.md) | M2 Operaciones | Stock y proveedores | Lunes y jueves 10:23 | Pendiente |
-| [C12](equipo/cascade/m3-backoffice/C12-facturacion-a-tiempo.md) | M3 Backoffice | Facturación a tiempo | Diario 19:07 | Pendiente |
-| [C13](equipo/cascade/m3-backoffice/C13-cobros-y-pagos-pendientes.md) | M3 Backoffice | Cobros y pagos pendientes | Diario 10:37 | Pendiente |
-| [C14](equipo/cascade/m3-backoffice/C14-conciliacion-nocturna.md) | M3 Backoffice | Conciliación nocturna | Diario 23:11 | Pendiente |
-| [C15](equipo/cascade/m3-backoffice/C15-gastos-y-proveedores.md) | M3 Backoffice | Gastos y proveedores | Diario 18:29 | Pendiente |
-| [C16](equipo/cascade/m3-backoffice/C16-impuestos-y-cumplimiento.md) | M3 Backoffice | Impuestos y cumplimiento | Mensual día 3 | Pendiente |
+| [C12](equipo/cascade/m3-backoffice/C12-facturacion-a-tiempo.md) | M3 Backoffice | Facturación a tiempo | Diario 19:07 | Pausado |
+| [C13](equipo/cascade/m3-backoffice/C13-cobros-y-pagos-pendientes.md) | M3 Backoffice | Cobros y pagos pendientes | Diario 10:37 | Pausado |
+| [C14](equipo/cascade/m3-backoffice/C14-conciliacion-nocturna.md) | M3 Backoffice | Conciliación nocturna | Diario 23:11 | Pausado |
+| [C15](equipo/cascade/m3-backoffice/C15-gastos-y-proveedores.md) | M3 Backoffice | Gastos y proveedores | Diario 18:29 | Pausado |
+| [C16](equipo/cascade/m3-backoffice/C16-impuestos-y-cumplimiento.md) | M3 Backoffice | Impuestos y cumplimiento | Mensual día 3 | Pausado |
 | [C17](equipo/cascade/m4-inteligencia/C17-que-cerro.md) | M4 Inteligencia | Qué cerró | Diario 7:07 | Pendiente |
 | [C18](equipo/cascade/m4-inteligencia/C18-que-esta-atascado.md) | M4 Inteligencia | Qué está atascado | Diario 7:09 | Pendiente |
 | [C19](equipo/cascade/m4-inteligencia/C19-que-costo-dinero.md) | M4 Inteligencia | Qué costó dinero | Lunes 7:13 | Pendiente |
@@ -49,11 +49,11 @@
 | [K09](equipo/klasse/m2-operaciones/K09-logistica-europe-2027.md) | M2 Operaciones | Logística EUROPE 2027 | Lunes y jueves 11:07 | Pendiente |
 | [K10](equipo/klasse/m2-operaciones/K10-comunicacion-con-inscritos.md) | M2 Operaciones | Comunicación con inscritos | Quincenal martes 12:13 | Pendiente |
 | [K11](equipo/klasse/m2-operaciones/K11-socios-y-acreditaciones.md) | M2 Operaciones | Socios y acreditaciones | Semanal miércoles 10:17 | Pendiente |
-| [K12](equipo/klasse/m3-backoffice/K12-facturacion-a-tiempo.md) | M3 Backoffice | Facturación a tiempo | Diario 19:13 | Pendiente |
-| [K13](equipo/klasse/m3-backoffice/K13-cobros-pendientes.md) | M3 Backoffice | Cobros pendientes | Lunes y jueves 10:31 | Pendiente |
-| [K14](equipo/klasse/m3-backoffice/K14-conciliacion-nocturna.md) | M3 Backoffice | Conciliación nocturna | Diario 23:13 | Pendiente |
-| [K15](equipo/klasse/m3-backoffice/K15-proveedores-y-costes-del-viaje.md) | M3 Backoffice | Proveedores y costes del viaje | Diario 18:31 | Pendiente |
-| [K16](equipo/klasse/m3-backoffice/K16-comisiones-de-agencias.md) | M3 Backoffice | Comisiones de agencias | Mensual día 5 | Pendiente |
+| [K12](equipo/klasse/m3-backoffice/K12-facturacion-a-tiempo.md) | M3 Backoffice | Facturación a tiempo | Diario 19:13 | Pausado |
+| [K13](equipo/klasse/m3-backoffice/K13-cobros-pendientes.md) | M3 Backoffice | Cobros pendientes | Lunes y jueves 10:31 | Pausado |
+| [K14](equipo/klasse/m3-backoffice/K14-conciliacion-nocturna.md) | M3 Backoffice | Conciliación nocturna | Diario 23:13 | Pausado |
+| [K15](equipo/klasse/m3-backoffice/K15-proveedores-y-costes-del-viaje.md) | M3 Backoffice | Proveedores y costes del viaje | Diario 18:31 | Pausado |
+| [K16](equipo/klasse/m3-backoffice/K16-comisiones-de-agencias.md) | M3 Backoffice | Comisiones de agencias | Mensual día 5 | Pausado |
 | [K17](equipo/klasse/m4-inteligencia/K17-que-cerro.md) | M4 Inteligencia | Qué cerró | Diario 7:11 | Pendiente |
 | [K18](equipo/klasse/m4-inteligencia/K18-que-esta-atascado.md) | M4 Inteligencia | Qué está atascado | Diario 7:13 | Pendiente |
 | [K19](equipo/klasse/m4-inteligencia/K19-que-costo-dinero.md) | M4 Inteligencia | Qué costó dinero | Lunes 7:17 | Pendiente |
@@ -63,51 +63,51 @@
 
 | ID | Módulo | Agente | Cuándo | Estado |
 | --- | --- | --- | --- | --- |
-| [L01](equipo/lexlegal/m1-ventas/L01-respuesta-inmediata.md) | M1 Ventas | Respuesta inmediata | Cada hora 9-20 h | Pendiente |
-| [L02](equipo/lexlegal/m1-ventas/L02-cualificador-de-casos.md) | M1 Ventas | Cualificador de casos | Cada hora 9-20 h | Pendiente |
-| [L03](equipo/lexlegal/m1-ventas/L03-agenda-de-llamadas.md) | M1 Ventas | Agenda de llamadas | Diario 9:47 | Pendiente |
-| [L04](equipo/lexlegal/m1-ventas/L04-hoja-de-encargo-y-presupuesto.md) | M1 Ventas | Hoja de encargo y presupuesto | Bajo demanda | Pendiente |
-| [L05](equipo/lexlegal/m1-ventas/L05-soporte-a-clientes.md) | M1 Ventas | Soporte a clientes | Cada hora 9-20 h | Pendiente |
-| [L06](equipo/lexlegal/m1-ventas/L06-captacion-y-contenido.md) | M1 Ventas | Captación y contenido | Diario 8:47 | Pendiente |
-| [L07](equipo/lexlegal/m1-ventas/L07-informe-comercial.md) | M1 Ventas | Informe comercial | Lunes 8:53 | Pendiente |
+| [L01](equipo/lexlegal/m1-ventas/L01-respuesta-inmediata.md) | M1 Ventas | Respuesta inmediata | Cada hora 9-20 h | Activo |
+| [L02](equipo/lexlegal/m1-ventas/L02-cualificador-de-casos.md) | M1 Ventas | Cualificador de casos | Cada hora 9-20 h | Activo |
+| [L03](equipo/lexlegal/m1-ventas/L03-agenda-de-llamadas.md) | M1 Ventas | Agenda de llamadas | Diario 9:47 | Activo |
+| [L04](equipo/lexlegal/m1-ventas/L04-hoja-de-encargo-y-presupuesto.md) | M1 Ventas | Hoja de encargo y presupuesto | Bajo demanda | Activo |
+| [L05](equipo/lexlegal/m1-ventas/L05-soporte-a-clientes.md) | M1 Ventas | Soporte a clientes | Cada hora 9-20 h | Activo |
+| [L06](equipo/lexlegal/m1-ventas/L06-captacion-y-contenido.md) | M1 Ventas | Captación y contenido | Diario 8:47 | Activo |
+| [L07](equipo/lexlegal/m1-ventas/L07-informe-comercial.md) | M1 Ventas | Informe comercial | Lunes 8:53 | Activo |
 | [L08](equipo/lexlegal/m2-operaciones/L08-alta-de-expediente-el-mismo-dia.md) | M2 Operaciones | Alta de expediente el mismo día | Cada hora 9-20 h | Pendiente |
 | [L09](equipo/lexlegal/m2-operaciones/L09-via-amistosa.md) | M2 Operaciones | Vía amistosa | Diario 10:47 | Pendiente |
 | [L10](equipo/lexlegal/m2-operaciones/L10-plazos-y-via-judicial.md) | M2 Operaciones | Plazos y vía judicial | Diario 9:07 | Pendiente |
 | [L11](equipo/lexlegal/m2-operaciones/L11-informe-al-cliente.md) | M2 Operaciones | Informe al cliente | Quincenal lunes 11:13 | Pendiente |
-| [L12](equipo/lexlegal/m3-backoffice/L12-facturacion-a-exito.md) | M3 Backoffice | Facturación a éxito | Diario 19:17 | Pendiente |
-| [L13](equipo/lexlegal/m3-backoffice/L13-cobro-de-honorarios.md) | M3 Backoffice | Cobro de honorarios | Lunes y jueves 10:41 | Pendiente |
-| [L14](equipo/lexlegal/m3-backoffice/L14-conciliacion-nocturna.md) | M3 Backoffice | Conciliación nocturna | Diario 23:17 | Pendiente |
-| [L15](equipo/lexlegal/m3-backoffice/L15-provisiones-y-gastos.md) | M3 Backoffice | Provisiones y gastos | Diario 18:37 | Pendiente |
-| [L16](equipo/lexlegal/m3-backoffice/L16-cumplimiento.md) | M3 Backoffice | Cumplimiento | Mensual día 3 | Pendiente |
-| [L17](equipo/lexlegal/m4-inteligencia/L17-que-cerro.md) | M4 Inteligencia | Qué cerró | Diario 7:15 | Pendiente |
-| [L18](equipo/lexlegal/m4-inteligencia/L18-que-esta-atascado.md) | M4 Inteligencia | Qué está atascado | Diario 7:17 | Pendiente |
-| [L19](equipo/lexlegal/m4-inteligencia/L19-que-costo-dinero.md) | M4 Inteligencia | Qué costó dinero | Lunes 7:21 | Pendiente |
-| [L20](equipo/lexlegal/m4-inteligencia/L20-aprendizajes.md) | M4 Inteligencia | Aprendizajes | Domingo 20:13 | Pendiente |
+| [L12](equipo/lexlegal/m3-backoffice/L12-facturacion-a-exito.md) | M3 Backoffice | Facturación a éxito | Diario 19:17 | Pausado |
+| [L13](equipo/lexlegal/m3-backoffice/L13-cobro-de-honorarios.md) | M3 Backoffice | Cobro de honorarios | Lunes y jueves 10:41 | Pausado |
+| [L14](equipo/lexlegal/m3-backoffice/L14-conciliacion-nocturna.md) | M3 Backoffice | Conciliación nocturna | Diario 23:17 | Pausado |
+| [L15](equipo/lexlegal/m3-backoffice/L15-provisiones-y-gastos.md) | M3 Backoffice | Provisiones y gastos | Diario 18:37 | Pausado |
+| [L16](equipo/lexlegal/m3-backoffice/L16-cumplimiento.md) | M3 Backoffice | Cumplimiento | Mensual día 3 | Pausado |
+| [L17](equipo/lexlegal/m4-inteligencia/L17-que-cerro.md) | M4 Inteligencia | Qué cerró | Diario 7:15 | Activo |
+| [L18](equipo/lexlegal/m4-inteligencia/L18-que-esta-atascado.md) | M4 Inteligencia | Qué está atascado | Diario 7:17 | Activo |
+| [L19](equipo/lexlegal/m4-inteligencia/L19-que-costo-dinero.md) | M4 Inteligencia | Qué costó dinero | Lunes 7:21 | Activo |
+| [L20](equipo/lexlegal/m4-inteligencia/L20-aprendizajes.md) | M4 Inteligencia | Aprendizajes | Domingo 20:13 | Activo |
 
 ## Specter AI
 
 | ID | Módulo | Agente | Cuándo | Estado |
 | --- | --- | --- | --- | --- |
-| [S01](equipo/specter/m1-ventas/S01-respuesta-inmediata.md) | M1 Ventas | Respuesta inmediata | Cada hora 9-20 h | Pendiente |
-| [S02](equipo/specter/m1-ventas/S02-cualificador-de-despachos.md) | M1 Ventas | Cualificador de despachos | Cada hora 9-20 h | Pendiente |
-| [S03](equipo/specter/m1-ventas/S03-agenda-de-demos.md) | M1 Ventas | Agenda de demos | Diario 9:23 | Pendiente |
-| [S04](equipo/specter/m1-ventas/S04-propuestas-y-altas-de-pago.md) | M1 Ventas | Propuestas y altas de pago | Bajo demanda | Pendiente |
-| [S05](equipo/specter/m1-ventas/S05-soporte-tecnico.md) | M1 Ventas | Soporte técnico | Cada hora 9-20 h | Pendiente |
+| [S01](equipo/specter/m1-ventas/S01-respuesta-inmediata.md) | M1 Ventas | Respuesta inmediata | Cada hora 9-20 h | Activo |
+| [S02](equipo/specter/m1-ventas/S02-cualificador-de-despachos.md) | M1 Ventas | Cualificador de despachos | Cada hora 9-20 h | Activo |
+| [S03](equipo/specter/m1-ventas/S03-agenda-de-demos.md) | M1 Ventas | Agenda de demos | Diario 9:23 | Activo |
+| [S04](equipo/specter/m1-ventas/S04-propuestas-y-altas-de-pago.md) | M1 Ventas | Propuestas y altas de pago | Bajo demanda | Activo |
+| [S05](equipo/specter/m1-ventas/S05-soporte-tecnico.md) | M1 Ventas | Soporte técnico | Cada hora 9-20 h | Activo |
 | [S06](equipo/specter/m1-ventas/S06-captacion-y-contenido.md) | M1 Ventas | Captación y contenido | Diario 8:23 | Activo |
-| [S07](equipo/specter/m1-ventas/S07-informe-comercial.md) | M1 Ventas | Informe comercial | Lunes 9:03 | Pendiente |
+| [S07](equipo/specter/m1-ventas/S07-informe-comercial.md) | M1 Ventas | Informe comercial | Lunes 9:03 | Activo |
 | [S08](equipo/specter/m2-operaciones/S08-alta-de-despacho-el-mismo-dia.md) | M2 Operaciones | Alta de despacho el mismo día | Cada hora 9-20 h | Pendiente |
 | [S09](equipo/specter/m2-operaciones/S09-migracion-de-expedientes.md) | M2 Operaciones | Migración de expedientes | Diario 10:53 | Pendiente |
 | [S10](equipo/specter/m2-operaciones/S10-activacion-del-mes-gratis.md) | M2 Operaciones | Activación del mes gratis | Diario 17:19 | Pendiente |
 | [S11](equipo/specter/m2-operaciones/S11-salud-de-clientes.md) | M2 Operaciones | Salud de clientes | Semanal miércoles 11:23 | Pendiente |
-| [S12](equipo/specter/m3-backoffice/S12-facturacion-a-tiempo.md) | M3 Backoffice | Facturación a tiempo | Diario 19:23 | Pendiente |
-| [S13](equipo/specter/m3-backoffice/S13-cobros-fallidos.md) | M3 Backoffice | Cobros fallidos | Diario 10:47 y día 15 | Pendiente |
-| [S14](equipo/specter/m3-backoffice/S14-conciliacion-nocturna.md) | M3 Backoffice | Conciliación nocturna | Diario 23:23 | Pendiente |
-| [S15](equipo/specter/m3-backoffice/S15-costes-de-ia-y-herramientas.md) | M3 Backoffice | Costes de IA y herramientas | Diario 18:43 | Pendiente |
-| [S16](equipo/specter/m3-backoffice/S16-penalizaciones-y-permanencias.md) | M3 Backoffice | Penalizaciones y permanencias | Mensual día 2 | Pendiente |
-| [S17](equipo/specter/m4-inteligencia/S17-que-cerro.md) | M4 Inteligencia | Qué cerró | Diario 7:19 | Pendiente |
-| [S18](equipo/specter/m4-inteligencia/S18-que-esta-atascado.md) | M4 Inteligencia | Qué está atascado | Diario 7:21 | Pendiente |
-| [S19](equipo/specter/m4-inteligencia/S19-que-costo-dinero.md) | M4 Inteligencia | Qué costó dinero | Lunes 7:25 | Pendiente |
-| [S20](equipo/specter/m4-inteligencia/S20-aprendizajes.md) | M4 Inteligencia | Aprendizajes | Domingo 20:17 | Pendiente |
+| [S12](equipo/specter/m3-backoffice/S12-facturacion-a-tiempo.md) | M3 Backoffice | Facturación a tiempo | Diario 19:23 | Pausado |
+| [S13](equipo/specter/m3-backoffice/S13-cobros-fallidos.md) | M3 Backoffice | Cobros fallidos | Diario 10:47 y día 15 | Pausado |
+| [S14](equipo/specter/m3-backoffice/S14-conciliacion-nocturna.md) | M3 Backoffice | Conciliación nocturna | Diario 23:23 | Pausado |
+| [S15](equipo/specter/m3-backoffice/S15-costes-de-ia-y-herramientas.md) | M3 Backoffice | Costes de IA y herramientas | Diario 18:43 | Pausado |
+| [S16](equipo/specter/m3-backoffice/S16-penalizaciones-y-permanencias.md) | M3 Backoffice | Penalizaciones y permanencias | Mensual día 2 | Pausado |
+| [S17](equipo/specter/m4-inteligencia/S17-que-cerro.md) | M4 Inteligencia | Qué cerró | Diario 7:19 | Activo |
+| [S18](equipo/specter/m4-inteligencia/S18-que-esta-atascado.md) | M4 Inteligencia | Qué está atascado | Diario 7:21 | Activo |
+| [S19](equipo/specter/m4-inteligencia/S19-que-costo-dinero.md) | M4 Inteligencia | Qué costó dinero | Lunes 7:25 | Activo |
+| [S20](equipo/specter/m4-inteligencia/S20-aprendizajes.md) | M4 Inteligencia | Aprendizajes | Domingo 20:17 | Activo |
 
 ## Empresarios de Éxito
 
@@ -124,11 +124,11 @@
 | [M09](equipo/marca-personal/m2-operaciones/M09-sesiones.md) | M2 Operaciones | Sesiones | Diario 8:13 | Pendiente |
 | [M10](equipo/marca-personal/m2-operaciones/M10-seguimiento-de-compromisos.md) | M2 Operaciones | Seguimiento de compromisos | Lunes y jueves 10:07 | Pendiente |
 | [M11](equipo/marca-personal/m2-operaciones/M11-edicion-y-publicacion.md) | M2 Operaciones | Edición y publicación | Martes 10:13 | Pendiente |
-| [M12](equipo/marca-personal/m3-backoffice/M12-facturacion.md) | M3 Backoffice | Facturación | Diario 19:27 | Pendiente |
-| [M13](equipo/marca-personal/m3-backoffice/M13-cobros-pendientes.md) | M3 Backoffice | Cobros pendientes | Lunes 10:53 | Pendiente |
-| [M14](equipo/marca-personal/m3-backoffice/M14-conciliacion-nocturna.md) | M3 Backoffice | Conciliación nocturna | Diario 23:27 | Pendiente |
-| [M15](equipo/marca-personal/m3-backoffice/M15-gastos-del-canal.md) | M3 Backoffice | Gastos del canal | Mensual día 4 | Pendiente |
-| [M16](equipo/marca-personal/m3-backoffice/M16-inversores-y-socios.md) | M3 Backoffice | Inversores y socios | Semanal viernes 11:17 | Pendiente |
+| [M12](equipo/marca-personal/m3-backoffice/M12-facturacion.md) | M3 Backoffice | Facturación | Diario 19:27 | Pausado |
+| [M13](equipo/marca-personal/m3-backoffice/M13-cobros-pendientes.md) | M3 Backoffice | Cobros pendientes | Lunes 10:53 | Pausado |
+| [M14](equipo/marca-personal/m3-backoffice/M14-conciliacion-nocturna.md) | M3 Backoffice | Conciliación nocturna | Diario 23:27 | Pausado |
+| [M15](equipo/marca-personal/m3-backoffice/M15-gastos-del-canal.md) | M3 Backoffice | Gastos del canal | Mensual día 4 | Pausado |
+| [M16](equipo/marca-personal/m3-backoffice/M16-inversores-y-socios.md) | M3 Backoffice | Inversores y socios | Semanal viernes 11:17 | Pausado |
 | [M17](equipo/marca-personal/m4-inteligencia/M17-que-cerro.md) | M4 Inteligencia | Qué cerró | Diario 7:23 | Pendiente |
 | [M18](equipo/marca-personal/m4-inteligencia/M18-que-esta-atascado.md) | M4 Inteligencia | Qué está atascado | Diario 7:25 | Pendiente |
 | [M19](equipo/marca-personal/m4-inteligencia/M19-que-costo-dinero.md) | M4 Inteligencia | Qué costó dinero | Lunes 7:29 | Pendiente |

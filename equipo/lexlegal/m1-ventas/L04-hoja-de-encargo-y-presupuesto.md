@@ -2,7 +2,7 @@
 
 - **Empresa:** LexLegal Advisors
 - **Módulo:** M1 Ventas
-- **Estado:** Pendiente
+- **Estado:** Activo
 - **Cuándo:** Bajo demanda
 - **Herramientas:** Drive
 - **¿Necesita el OK de Pancho?** Sí

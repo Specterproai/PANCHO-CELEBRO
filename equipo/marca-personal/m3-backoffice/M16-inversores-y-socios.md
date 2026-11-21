@@ -2,7 +2,7 @@
 
 - **Empresa:** Empresarios de Éxito
 - **Módulo:** M3 Backoffice
-- **Estado:** Pendiente
+- **Estado:** Pausado
 - **Cuándo:** Semanal viernes 11:17
 - **Herramientas:** Drive
 - **¿Necesita el OK de Pancho?** Sí en envíos de documentos
