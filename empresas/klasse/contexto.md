@@ -17,7 +17,7 @@
 - Agencias: comisión solo con el viaje pagado al 100 %; el precio sube cerca de la fecha; sin cancelaciones.
 
 ## Objetivos (21 nov 2026)
-- **EUROPE 2027: 40 plazas en total, 14 ocupadas, 26 disponibles** (cifras publicables, a 21 nov 2026). Si Pancho da cifras nuevas, usa siempre las últimas; nunca inventes escasez.
+- **EUROPE 2027: 40 plazas = 40 coches; 14 ocupadas, 26 disponibles** (cifras publicables, a 21 nov 2026). Cada plaza es un coche y normalmente va una pareja (el precio de 11.990 € + IVA es por pareja/coche). Si Pancho da cifras nuevas, usa siempre las últimas; nunca inventes escasez.
 - **Cierre de inscripciones: 30 de junio de 2027.** Llenar las plazas es la prioridad nº 1.
 - Socios: crecer de 100 a 1.000, validados uno a uno por Pancho.
 
