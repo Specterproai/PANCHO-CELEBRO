@@ -15,6 +15,7 @@ Este repositorio es la cabeza pensante de Claude para **Cascade, Klasse, LexLega
 | `.claude/settings.json` + `.claude/hooks/` | Guardia SkillSpector: escanea cualquier repo antes de instalarlo |
 | `scripts/setup-nube.sh` | Instala SkillSpector en el entorno en la nube |
 | `salidas/` | Lo que producen los agentes + `pendiente-de-aprobar.md` |
+| `herramientas/` | Stack de apps gratuitas que usan los agentes (reglas, estado y guía por app) |
 | `SEGURIDAD.md` | Resultado del escaneo de los skills y qué se descartó |
 
 ## Skills incluidos

@@ -24,6 +24,10 @@ Necesita OK de Pancho SIEMPRE:
 - **En pausa:** todo el **M3 Backoffice** de las 5 empresas, hasta que haya flujo de caja (decisión de Pancho). No factures, concilies ni persigas cobros.
 - **Pendientes:** el resto. Ver `MAPA.md`.
 
+## Herramientas: solo stack gratuito (decidido por Pancho el 22 nov 2026)
+- Para generar o gestionar contenido usa solo las apps open source de `herramientas/` (AppFlowy, OpenWhispr, Cap, OpenProject, Cal.diy, Chatwoot; Open Generative AI y VoiceStudio en espera).
+- No registres, contrates ni uses apps de pago sin OK de Pancho. Reglas y guías: `herramientas/REGLAS.md`; estado: `herramientas/ESTADO.md`.
+
 ## Trato
 - **Usted**: abogados, procuradores (Specter, LexLegal) y médicos/clínicas (Cascade).
 - **Tú**: Klasse, EUROPE 2027 y la marca personal Empresarios de Éxito.
