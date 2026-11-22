@@ -6,7 +6,7 @@
 
 **Horario fijo:** 07:30 (Dios, negocios y prosperidad) · 10:30 · 13:30 · 17:30 · 20:30 · 22:30. Los cortes B se publican intercalados al día siguiente.
 
-**Palabras clave de CTA (embudo):** RESCATE (checklist gratis de 72 h) · BLINDAJE (checklist legal) · FOCO (conversación) · ASESORÍA · RESCATE 30 · 90 DÍAS · ADVISORY.
+**Palabras clave de CTA (fase 1, todas gratis):** RESCATE (checklist de 72 h) · BLINDAJE (checklist legal) · FOCO (conversación) · IA · CASO.
 
 **Antes de publicar:** las noticias (marcadas con 🔎) se vuelven a comprobar el mismo día. Nada de cifras, clientes ni resultados inventados. Donde pone `[DATO]`, rellena tú con algo real.
 
@@ -309,53 +309,47 @@
 
 ---
 
-## DOMINGO 29 · BLOQUE DE VENTA — convertir autoridad en ingresos
-*(Día de elecciones: cero política. La reacción a los resultados, neutral y centrada en empresas, sale el lunes 30.)*
+## DOMINGO 29 · BLOQUE DE COMUNIDAD — que se queden y vuelvan
+*(Fase 1: no se vende nada. Día de elecciones: cero política; la reacción neutral a los resultados sale el lunes 30.)*
 
 ### D1 · 07:30 · Dios, negocios y prosperidad
 **Portada:** HASTA DIOS DESCANSÓ
 **Hook:** Si Dios descansó el séptimo día, ¿por qué tú presumes de no parar nunca?
 **Guion:** Génesis 2:2. Descansar no es pereza: es estrategia. Hoy, familia, iglesia y treinta minutos para planear la semana. El empresario agotado decide peor.
 **CTA:** ¿Cómo descansas tú?
-**Formato:** mañana tranquila, familia fuera de plano, voz serena.
 
-### D2 · 10:30 · Escalera de servicios
-**Portada:** ASÍ PUEDO AYUDARTE (Y ASÍ NO)
-**Hook:** No trabajo igual con alguien que empieza que con una empresa que factura millones.
-**Guion:** Gratis: este contenido y la checklist RESCATE. El curso, para ordenar tu empresa tú solo. La asesoría, para un problema concreto. El sprint de 30 días, para sacarla del agujero. La mentoría de 90 días, para transformarla. Y el advisory, para empresas que ya facturan.
-**CTA:** Comenta tu etapa y te digo cuál te encaja.
-**Formato:** escalera visual de 6 peldaños.
+### D2 · 10:30 · Preguntas de la semana
+**Portada:** RESPONDO LO QUE MÁS ME HABÉIS PREGUNTADO
+**Hook:** Esta semana la pregunta que más se repitió fue esta.
+**Guion:** `[DATO: la pregunta más repetida en comentarios y DMs]`. Respuesta directa en tres pasos, con un ejemplo real.
+**CTA:** Déjame tu pregunta para el domingo que viene.
 
-### D3 · 13:30 · Asesoría estratégica
-**Portada:** UNA CONVERSACIÓN PARA DESBLOQUEAR TU EMPRESA
-**Hook:** Hay problemas que llevan meses bloqueando una empresa y se aclaran en una conversación.
-**Guion:** Asesoría estratégica: cuestionario previo, sesión conmigo y plan escrito con tus tres prioridades. 499 euros más IVA. Es estrategia empresarial, no asesoramiento jurídico individual.
-**CTA:** Escribe ASESORÍA.
-**Formato:** Pancho en mesa de reuniones, plano cerrado.
+### D3 · 13:30 · Serie de historia, capítulo 1
+**Portada:** CÓMO ABRÍ MI PRIMER DESPACHO (CAP. 1)
+**Hook:** Nadie me prestó dinero para abrir mi despacho. Así lo hice.
+**Guion:** `[DATO: cómo ahorraste, las prácticas y el primer cliente]`. Termina en el momento de más tensión, sin resolverlo.
+**CTA:** Sígueme para ver el capítulo 2 el domingo que viene.
 
-### D4 · 17:30 · Sprint Rescate 30 días
-**Portada:** 30 DÍAS PARA SACAR TU EMPRESA DEL AGUJERO
-**Hook:** Saber qué falla no salva una empresa. Ejecutar el plan, sí.
-**Guion:** Cuatro sesiones semanales: caja de 13 semanas, recortes, plan de cobros y deudas, y oferta y ventas. Plantillas y seguimiento por mensaje. 2.500 euros más IVA. Pocas plazas al mes, porque lo hago yo.
-**CTA:** Escribe RESCATE 30.
-**Formato:** calendario de 4 semanas en pantalla.
+### D4 · 17:30 · Mi método
+**Portada:** RESCATAR, BLINDAR, ESCALAR
+**Hook:** Todo lo que enseño cabe en tres palabras.
+**Guion:** Rescatar: caja, cobros y deudas antes que nada. Blindar: contratos, patrimonio y las normas que vienen. Escalar: ventas, equipo y sistemas. Si te saltas el orden, lo que construyes se cae. Cada vídeo de esta cuenta es una pieza de una de las tres.
+**CTA:** Comenta cuál de las tres te falta.
 
-### D5 · 20:30 · Mentoría 90 días
-**Portada:** 90 DÍAS PARA TRANSFORMAR TU EMPRESA
-**Hook:** Mi servicio principal no es para todo el mundo. Es para diez empresarios.
-**Guion:** Rescatar, blindar y escalar: estrategia, ventas, estructura, sistemas con IA y marca del fundador. Sesión semanal, revisión de números y soporte pactado. Precio fundador: 9.000 euros más IVA. Máximo diez plazas.
-**CTA:** Escribe 90 DÍAS y te enviaré la solicitud.
-**Formato:** el vídeo más cuidado de la semana: plano cine, luz cálida.
+### D5 · 20:30 · Caso real (participación)
+**Portada:** MÁNDAME TU CASO Y LO ANALIZO
+**Hook:** El domingo que viene analizo en un vídeo el problema de un seguidor.
+**Guion:** Cuéntame por DM, sin datos personales: sector, tamaño aproximado y qué te bloquea. Elijo uno y lo analizo en abierto, sin nombres y con su permiso.
+**CTA:** Escribe CASO por DM.
 
-### D6 · 22:30 · Advisory
-**Portada:** SI TU EMPRESA YA FACTURA MILLONES, ESCUCHA
-**Hook:** Cuando una empresa pasa del millón, el problema deja de ser trabajar más: es decidir mejor.
-**Guion:** Advisory de seis meses: consejo estratégico para el fundador, expansión, riesgos, estructura y decisiones críticas. No gestiono tu empresa: te ayudo a decidir mejor. Desde 25.000 euros más IVA, solo por solicitud.
-**CTA:** Escribe ADVISORY.
-**Formato:** plano exterior de edificio de oficinas → Pancho a cámara.
+### D6 · 22:30 · Lo que viene
+**Portada:** LA SEMANA QUE VIENE: DE 0 A 30 MILLONES
+**Hook:** Esto es lo que viene la semana que viene, y no te lo quieres perder.
+**Guion:** Serie de 0 a 30 millones en cinco capítulos, las elecciones explicadas para empresarios y el primer caso real analizado. `[DATO: ajustar al plan de la semana siguiente]`
+**CTA:** Activa las notificaciones y guarda este vídeo.
 
 **Pieza 13:** resumen de la semana: los 3 vídeos más guardados y la lección de cada uno.
-**YouTube:** "Cómo convertir tu marca personal en clientes en 90 días (mi plan, en abierto)".
+**YouTube:** "Rescatar, blindar y escalar: mi método completo para empresarios".
 
 ---
 
@@ -367,7 +361,7 @@ Retención al segundo 3 y al final · guardados · compartidos · visitas al per
 
 ---
 
-## Oferta comercial: escalera de servicios y precios (propuesta, pendiente de tu OK)
+## Oferta comercial: escalera de servicios y precios (FASE 2, desde ~22 feb 2027; ahora no se vende)
 
 | Nivel | Servicio | Precio | Qué incluye | Para quién |
 |---|---|---|---|---|
