@@ -15,3 +15,8 @@ Marca con [x] lo que apruebas. Los agentes leen esta lista.
 - [x] 2026-11-22 · marca-personal · directriz · (Caída pasada; faltan los hitos reales del año) Pasar [DATO]: una caída real para el vídeo M6 y los hitos reales del año · salidas/marca-personal/2026-11-22-semana-42-videos.md
 - [x] 2026-11-22 · marca-personal · 19-marca-analista · (Hecho: Windsor.ai y Supermetrics conectados) Conectar Instagram (Windsor.ai o Supermetrics) para que el analista mida qué vídeos funcionan · agentes/19-marca-analista.md
 - [x] 2026-11-22 · marca-personal · 19-marca-analista · (Decidido: 6/día espaciados, cortes a historias) Decidir ritmo: 6 reels/día espaciados (datos: publicar 6 en 30 min hundió el alcance) o 13/día · salidas/marca-personal/2026-11-22-analisis.md
+- [ ] 2026-11-22 · marca-personal · 20-marca-guionista · Guion 1 "Siento que este año no he hecho mucho" (tendencia mes a mes; pasar hitos reales [DATO]) · salidas/marca-personal/2026-11-22-guion.md
+- [ ] 2026-11-22 · marca-personal · 20-marca-guionista · Guion 2 "No decidas cerrar un domingo por la noche" (tema toalla, CTA FOCO) · salidas/marca-personal/2026-11-22-guion.md
+- [ ] 2026-11-22 · marca-personal · 20-marca-guionista · Guion 3 "¿A qué empresa le doy hoy el día?" (varias empresas) · salidas/marca-personal/2026-11-22-guion.md
+- [ ] 2026-11-22 · marca-personal · 20-marca-guionista · Guion 4 "No sabes por dónde seguir: un folio, 3 listas" (tema toalla, CTA FOCO) · salidas/marca-personal/2026-11-22-guion.md
+- [ ] 2026-11-22 · marca-personal · 20-marca-guionista · Guion 5 "Varias empresas: no mezcles su dinero" (varias empresas) · salidas/marca-personal/2026-11-22-guion.md
