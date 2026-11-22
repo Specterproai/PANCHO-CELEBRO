@@ -2,16 +2,18 @@
 
 - Empresa: marca-personal
 - Skill: equipo-marketing
-- Cuándo: Domingo 18:07 (lote semanal para grabar el lunes)
+- Cuándo: Domingo 18:07 (semana completa para grabar el lunes)
 - Conectores: ninguno
 
 ## Objetivo
-Lote de 5 guiones para grabar en un solo día + copy de Instagram de cada uno.
+Semana completa según `empresas/marca-personal/directriz.md`: 42 vídeos madre (6 al día, el de las 07:30 sobre Dios, negocios y prosperidad), por bloques (información, construcción, consolidación, crecimiento, venta), con pieza reactiva, título de YouTube y plan de historias de cada día. Modelo: `salidas/marca-personal/2026-11-22-semana-42-videos.md`.
 
 ## Pasos
-1. Lee la última salida de tendencias y el último análisis.
-2. 5 guiones de 30-60 s alternando los dos temas (varias empresas / empresarios que tiran la toalla): gancho 0-3 s, desarrollo, cierre con CTA (seguir, mentoría o contacto para inversores según el vídeo); indicaciones de edición (subtítulos, sin silencios, elegante). Añade una hoja de rodaje: orden de grabación, cambios de ropa o plano, y qué necesita Pancho tener a mano.
-3. Copy propio de Instagram (no la transcripción) + 3 opciones de portada.
+1. Lee la directriz, la última salida de tendencias, el último análisis y la lista de temas usados en `empresas/marca-personal/backup-maestro.md`.
+2. Busca noticias reales de la semana (España: economía, autónomos, pymes, impuestos, IA, lujo, motor) y fechas calientes; verifica fuente y fecha.
+3. Escribe los 42 vídeos: portada, hook, guion de 15–35 s, CTA con palabra clave y formato. Sin repetir temas. `[DATO]` donde falte algo real de Pancho.
+4. Añade hoja de rodaje para grabar todo el lunes en bloque (orden, cambios de ropa/plano, qué tener a mano) y copy propio de Instagram para los 6 vídeos más fuertes.
+5. Añade a la lista de temas usados del backup maestro los temas de la semana.
 
 ## Entrega
 - Resultado en `salidas/marca-personal/AAAA-MM-DD-guion.md`

@@ -1,5 +1,7 @@
 # Marca personal — Empresarios de Éxito
 
+> **Desde el 22 nov 2026 manda `directriz.md`** (rescatar, blindar y escalar · 6 vídeos/día con el de las 07:30 dedicado a Dios, negocios y prosperidad · objetivo 6 cifras en 90 días). Si algo de este archivo choca con la directriz, gana la directriz.
+
 ## Qué es
 Canal de Instagram de Pancho, "Empresarios de Éxito". Objetivo: crecer alcance y marca personal a lo grande.
 
@@ -31,4 +33,4 @@ Tono para el tema 2: cercano y honesto, sin frases vacías de motivación ni pro
 **Pancho graba en bloque los lunes.** El guionista entrega cada domingo por la tarde un lote de 5 guiones listos para grabar de una sentada.
 
 ## Datos de rendimiento
-Estadísticas: vía conexión de Instagram (cuenta profesional + Meta). Hasta que esté conectada, el analista trabaja solo con tendencias.
+Estadísticas: vía conector de Instagram (Windsor.ai o Supermetrics, cuenta profesional de Instagram vinculada a una página de Facebook) o exportación en Drive (Marca personal/Estadísticas). Hasta que haya datos, el analista trabaja solo con tendencias.
