@@ -21,8 +21,9 @@ El empresario que se crió en la calle, estudió Derecho y hoy dirige cuatro emp
 6. **Fe, valores y prosperidad**: **el primer vídeo de cada día, a las 07:30**, une Dios, negocios y prosperidad. Fe cristiana con naturalidad, sin sermón. 10 %
 
 ## Sistema de publicación
-- 6 vídeos madre al día (07:30 Dios · 10:30 · 13:30 · 17:30 · 20:30 · 22:30), 15–35 s, con portada, hook en la primera frase, guion, enseñanza aplicable y CTA corto.
-- 2 cortes por vídeo (hook 8–12 s + valor 20–35 s) + 1 pieza reactiva a la noticia del día = 13 reels/día.
+- 6 reels al día separados ~3 h (07:30 Dios · 10:30 · 13:30 · 16:30 · 19:30 · 22:30). Nunca varios seguidos: el 12 nov, 6 reels en 30 min se quedaron en 8–78 visualizaciones, 15–35 s, con portada, hook en la primera frase, guion, enseñanza aplicable y CTA corto.
+- Cortes y pieza reactiva van a historias, no como reels extra (decisión del 22 nov según datos).
+- Series fijas que vuelven cada semana: "Trabajos que me formaron" y "Lo que dicen los clientes" (lo que mejor funciona en la cuenta).
 - 1 vídeo de YouTube diario (8–15 min) sobre el tema del día. Historias durante todo el día.
 - Bloques de la semana: lunes Información · martes Construcción (rescate) · miércoles Construcción (blindaje) · jueves Consolidación · viernes Crecimiento (ventas) · sábado Crecimiento (lujo y patrimonio) · domingo Comunidad en fase 1 (preguntas de la semana, serie de historia, método, caso real de un seguidor, avance de la semana) y Venta en fase 2.
 
@@ -52,5 +53,6 @@ Gratis (contenido + checklist) → Curso "Empresa Blindada" 297 € IVA incl. �
 
 ## Documentos
 - Hoja de precios y pendientes: https://claude.ai/artifact/JHCVANhWyRNoW6wRu4ekmz
-- Semana actual: `salidas/marca-personal/2026-11-22-semana-42-videos.md`
+- Semana actual (v2, la que se graba): `salidas/marca-personal/2026-11-22-semana-v2-retencion.md`
+- Semana anterior (v1, sustituida): `salidas/marca-personal/2026-11-22-semana-42-videos.md`
 - Backup maestro para ChatGPT y Claude: `empresas/marca-personal/backup-maestro.md`

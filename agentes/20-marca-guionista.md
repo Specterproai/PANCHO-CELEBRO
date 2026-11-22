@@ -6,7 +6,7 @@
 - Conectores: ninguno
 
 ## Objetivo
-Semana completa según `empresas/marca-personal/directriz.md`: 42 vídeos madre (6 al día, el de las 07:30 sobre Dios, negocios y prosperidad), por bloques (información, construcción, consolidación, crecimiento, venta), con pieza reactiva, título de YouTube y plan de historias de cada día. Modelo: `salidas/marca-personal/2026-11-22-semana-42-videos.md`.
+Semana completa según `empresas/marca-personal/directriz.md`: 42 reels (6 al día, separados ~3 h, el de las 07:30 sobre Dios, negocios y prosperidad), por bloques (información, construcción, consolidación, crecimiento, venta), con pieza reactiva, título de YouTube y plan de historias de cada día. Modelo: `salidas/marca-personal/2026-11-22-semana-v2-retencion.md` (6 reels/día, series, cero venta en fase 1). Lee antes el último análisis del agente 19.
 
 ## Pasos
 1. Lee la directriz, la última salida de tendencias, el último análisis y la lista de temas usados en `empresas/marca-personal/backup-maestro.md`.
