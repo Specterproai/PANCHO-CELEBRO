@@ -12,5 +12,5 @@ Marca con [x] lo que apruebas. Los agentes leen esta lista.
 - [ ] 2026-11-22 · specter · 15-specter-anuncios · Grupo de Google Ads en borrador (fuera del plan de lanzamiento): decidir si se activa y con qué presupuesto aparte [DATO] · salidas/specter/2026-11-22-anuncios.md
 - [ ] 2026-11-22 · marca-personal · directriz · Aprobar la semana de 42 vídeos (23–29 nov) para grabar el lunes · salidas/marca-personal/2026-11-22-semana-42-videos.md
 - [x] 2026-11-22 · marca-personal · directriz · (Aprobada para la fase 2, desde ~22 feb 2027; no se vende antes) Escalera de precios nueva (curso 297 €, sprint 2.500 €, mentoría 9.000 € fundador 10 plazas, advisory desde 25.000 €; asesoría sigue en 499 €) · empresas/marca-personal/directriz.md
-- [ ] 2026-11-22 · marca-personal · directriz · Pasar [DATO]: una caída real para el vídeo M6 y los hitos reales del año · salidas/marca-personal/2026-11-22-semana-42-videos.md
+- [x] 2026-11-22 · marca-personal · directriz · (Caída pasada; faltan los hitos reales del año) Pasar [DATO]: una caída real para el vídeo M6 y los hitos reales del año · salidas/marca-personal/2026-11-22-semana-42-videos.md
 - [x] 2026-11-22 · marca-personal · 19-marca-analista · (Hecho: Windsor.ai y Supermetrics conectados) Conectar Instagram (Windsor.ai o Supermetrics) para que el analista mida qué vídeos funcionan · agentes/19-marca-analista.md

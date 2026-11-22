@@ -101,10 +101,10 @@
 **Formato:** lista que se tacha en pantalla.
 
 ### M6 · 22:30 · Historia personal
-**Portada:** UNA DE MIS MÁS DE 200 CAÍDAS
-**Hook:** He caído más de 200 veces. Esta me enseñó más que todas juntas.
-**Guion:** `[DATO: Pancho elige una caída real que pueda contar.]` Estructura: qué pasó, qué hice mal, qué decidí al día siguiente y qué regla tengo desde entonces.
-**CTA:** Si estás en tu caída ahora mismo, escribe FOCO.
+**Portada:** MI CAÍDA MÁS DURA NO FUE DORMIR EN UN BANCO
+**Hook:** La caída más dura de mi vida no fue cuando dormía en los bancos de un colegio.
+**Guion:** Entonces no tenía nada que perder: luchaba por sobrevivir. Mi verdadera caída llegó después, cuando ya tenía empresas, coches, viajes y muchas de las cosas que el Pancho de 14 años soñaba. Empecé a acomodarme. Perdí disciplina, enfoque y parte del hambre que me trajo hasta aquí. Desde fuera seguía pareciendo exitoso, pero por dentro sabía que me alejaba de mi mejor versión. Y aprendí algo: no siempre caes cuando pierdes dinero. A veces caes cuando, teniéndolo todo, empiezas a perderte a ti mismo. Por eso me estoy reconstruyendo. No desde cero: desde la experiencia.
+**CTA:** ¿Te has acomodado tú también? Escribe FOCO y hablamos.
 **Formato:** plano nocturno, una sola toma, sin música encima de la voz.
 
 **Pieza 13:** dato de disoluciones o concursos del mes aplicado a "cómo no ser uno de ellos".
