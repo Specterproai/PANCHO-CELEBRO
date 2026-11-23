@@ -24,3 +24,4 @@ Marca con [x] lo que apruebas. Los agentes leen esta lista.
 - [ ] 2026-11-23 · specter · 13-specter-guionista · Guion G1 explicativo "El expediente que vive en la cabeza de alguien" (CRM de clientes y expedientes, despachos medianos) para grabar · salidas/specter/2026-11-23-guiones.md
 - [ ] 2026-11-23 · specter · 13-specter-guionista · Guion G2 anuncio corto "¿Dónde acaban los datos de sus clientes?" (vs. IA genérica, despachos grandes); confirmar cómo se tratan los datos [DATO]; usarlo en Meta Ads requiere OK aparte · salidas/specter/2026-11-23-guiones.md
 - [ ] 2026-11-23 · specter · 13-specter-guionista · Guion G3 teaser de dolor "¿Cómo va lo mío?" (clientes que preguntan por 3 canales, autónomos) · salidas/specter/2026-11-23-guiones.md
+- [ ] 2026-11-23 · lexlegal · M1-L06 · Post divulgativo lunes: procedimiento monitorio (impagados) · salidas/lexlegal/2026-11-23-09-M1.md
