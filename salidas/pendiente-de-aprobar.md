@@ -20,3 +20,4 @@ Marca con [x] lo que apruebas. Los agentes leen esta lista.
 - [ ] 2026-11-22 · marca-personal · 20-marca-guionista · Guion 3 "¿A qué empresa le doy hoy el día?" (varias empresas) · salidas/marca-personal/2026-11-22-guion.md
 - [ ] 2026-11-22 · marca-personal · 20-marca-guionista · Guion 4 "No sabes por dónde seguir: un folio, 3 listas" (tema toalla, CTA FOCO) · salidas/marca-personal/2026-11-22-guion.md
 - [ ] 2026-11-22 · marca-personal · 20-marca-guionista · Guion 5 "Varias empresas: no mezcles su dinero" (varias empresas) · salidas/marca-personal/2026-11-22-guion.md
+- [ ] 2026-11-23 · lexlegal · M4-L19 · Confirmar si la campaña de 30 €/día está activa: sin Meta Ads ni info@ conectados no se mide el coste ni se atienden leads (¿reconectar o pausar?) · salidas/lexlegal/2026-11-23-M4.md
