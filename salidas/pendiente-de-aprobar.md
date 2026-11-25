@@ -38,3 +38,4 @@ Marca con [x] lo que apruebas. Los agentes leen esta lista.
 - [ ] 2026-11-25 · specter · 13-specter-guionista · Guion G1 explicativo "Pedirle los papeles al cliente cinco veces" (comunicación con clientes, despachos grandes con asociados); confirmar si mensajes y documentos del cliente quedan en el expediente y si hay portal [DATO] · salidas/specter/2026-11-25-guiones.md
 - [ ] 2026-11-25 · specter · 13-specter-guionista · Guion G2 anuncio corto "Su software archiva. ¿Quién redacta?" (vs. software de gestión de siempre, autónomos); usarlo en Meta Ads requiere OK aparte · salidas/specter/2026-11-25-guiones.md
 - [ ] 2026-11-25 · specter · 13-specter-guionista · Guion G3 teaser de dolor "El domingo es para redactar" (despachos pequeños, tiempo) · salidas/specter/2026-11-25-guiones.md
+- [ ] 2026-11-25 · lexlegal · M1-L06 · Post divulgativo miércoles: el burofax antes de reclamar (impagados) · salidas/lexlegal/2026-11-25-09-M1.md
