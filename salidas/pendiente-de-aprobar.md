@@ -52,3 +52,4 @@ Marca con [x] lo que apruebas. Los agentes leen esta lista.
 - [ ] 2026-11-27 · specter · 13-specter-guionista · Guion G1 explicativo "El cliente que vuelve" (CRM de clientes y expedientes, autónomos); confirmar cómo se ve la ficha del cliente en la demo [DATO] · salidas/specter/2026-11-27-guiones.md
 - [ ] 2026-11-27 · specter · 13-specter-guionista · Guion G2 anuncio corto "La base de datos no conoce a su cliente" (vs. bases de datos clásicas, despachos pequeños); usarlo en Meta Ads requiere OK aparte · salidas/specter/2026-11-27-guiones.md
 - [ ] 2026-11-27 · specter · 13-specter-guionista · Guion G3 teaser de dolor "La llamada que nadie devolvió" (despachos medianos, cliente nuevo que se pierde) · salidas/specter/2026-11-27-guiones.md
+- [ ] 2026-11-27 · lexlegal · M1-L06 · Post divulgativo viernes: ¿cuánto tiempo hay para reclamar una factura? (prescripción, impagados) · salidas/lexlegal/2026-11-27-09-M1.md
